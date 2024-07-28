@@ -13,7 +13,6 @@ import {
 
 import { signIn as signInService } from "@/service/sign-in";
 import { Alert } from "react-native";
-import { AxiosError } from "axios";
 
 export interface AuthData {
   username: string;
