@@ -1,4 +1,4 @@
-## 📱 Fesafio Mobile
+## 📱 Desafio Mobile
 
 Neste desafio, foi proposto desenvolver um aplicativo em React Native para atender aos requisitos específicos fornecidos pela empresa Saurus.
 
